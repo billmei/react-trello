@@ -1,0 +1,30 @@
+.App-header {
+  min-height: 100vh;
+}
+
+.App {
+  margin: 1em;
+}
+
+.Swimlanes {
+  display: flex;
+}
+
+.Swimlane {
+  margin: 1em;
+  padding: 0 1em 1em 1em;
+  border-radius: 0.25em;
+  background-color: #dde;  
+  width: 20rem;
+}
+
+.Card {
+  display: inline-block;
+  background: white;
+  margin: 1em 0;
+  padding: 0 1em 1em 1em;
+  box-shadow: 1px 1px #333;
+  border: 1px solid #aaa;
+  box-sizing: border-box;
+  width: 100%;
+}
